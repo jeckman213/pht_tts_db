@@ -6,6 +6,9 @@ PlayHT TTS Discord Bot
 2. Add env variables
 3. Installed required pip packages (after creating python env)
    `pip install -r requirements.txt`
+4. Run bot locally
+   `python bot.py`
+   or in a Heroku App (Proc file provided)
 
 ## Env
 | Environment Variable  | Description  |
