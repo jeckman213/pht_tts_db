@@ -15,3 +15,5 @@ PlayHT TTS Discord Bot
 | ----------------------| -------------|
 | DISCORD_TOKEN         | Discord token for bot  |
 | COMMAND_PREFIX        | Prefixes for commands (for slash commands need '/' in here or leave default) in string array '["\", "!"]'  |
+| PLAY_HT_USER_ID       | [PlayHT User ID](https://docs.play.ht/reference/api-authentication) |
+| PLAY_HT_API_KEY       | [PlayHT API Key](https://docs.play.ht/reference/api-authentication) |
